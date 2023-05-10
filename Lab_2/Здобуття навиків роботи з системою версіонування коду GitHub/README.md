@@ -26,3 +26,7 @@
 *та закомітив внесені зміни і також виконав merge Pull Request*
 
 .........
+
+### 5. Для оновлення файл використав таку команду:
+*git pull https://github.com/Bohdan0002/Labs.git main*
+
