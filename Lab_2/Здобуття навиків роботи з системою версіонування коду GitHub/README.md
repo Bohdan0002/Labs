@@ -1,5 +1,8 @@
 # Lab_2
 
+![alt text](ciwlCWa.png)
+
+
 ### 1. Команда, яку я використав для копіювання репозиторію:
 **git clone https://github.com/Bohdan0002/Labs.git**
 
